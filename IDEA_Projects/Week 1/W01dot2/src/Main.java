@@ -1,0 +1,13 @@
+// source code for W01dot2
+// name: Benjamin Vredenburg
+// last modified: 09/15/2021
+// course: CIT-260
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("     J     A    V     V     A");
+        System.out.println("     J    A A    V   V     A A");
+        System.out.println("J    J   AAAAA    V V     AAAAA");
+        System.out.println(" J  J   A     A    V     A     A");
+    }
+}
